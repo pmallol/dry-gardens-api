@@ -1,0 +1,16 @@
+{
+  "name": "dry-gardens",
+  "version": "1.0.0",
+  "description": "A collection of Kyoto's dry gardens",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pmallol",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
